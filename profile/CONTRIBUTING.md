@@ -48,7 +48,7 @@ Before you start working on a significant feature, please open an issue or discu
 
 ## ✉️ Reporting Issues
 
-Found a bug? Want to suggest a feature? Please create an issue using our [Issue Tracker](https://github.com/snoutbot-org/snoutbot/issues).
+Found a bug? Want to suggest a feature? Please create an issue using our Issue tracker for the [specific repository](https://github.com/orgs/SnoutBot/repositories)
 
 ## 📚 License
 
